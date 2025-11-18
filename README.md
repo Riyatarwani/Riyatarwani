@@ -19,7 +19,7 @@ I'm a passionate developer on a mission to **build impactful web applications an
 
 | Frontend | Backend | Database | Programming | Tools & Concepts |
 |---------|---------|----------|------------|----------------|
-| HTML, CSS, JavaScript, React | Node.js, Express, REST APIs | MongoDB, MySQL | Python, JavaScript, C, C++ | Git, GitHub, DSA, Problem Solving |
+| HTML, CSS, JavaScript| Node.js, Express, REST APIs | MongoDB, PostgreSQL | Python, JavaScript, C | Git, GitHub, DSA, Problem Solving,Basic AI ML concepts |
 
 ---
 
@@ -32,7 +32,7 @@ I'm a passionate developer on a mission to **build impactful web applications an
 
 ## Connect with Me
 - 📫 [LinkedIn](https://www.linkedin.com/in/riya-tarwani/)  
-- 🌐 Portfolio: [Add your projects link here]  
+- 🌐 Portfolio: 
 - ✉️ Email: tarwaniriya3@gmail.com
 
 ---
